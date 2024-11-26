@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 400px;
+  border-radius: 20%;
+  margin: 10px 5px 0px 10px;
+  height: 400px;
+  background-color: blue;
+}
+
+/* Staggers */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;600&display=swap");
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  min-height: 100vh;
+  font-family: "Signika Negative", sans-serif;
+}
+
+.box {
+  cursor: pointer;
+  background-color: brown;
+  opacity: 0;
+} */
